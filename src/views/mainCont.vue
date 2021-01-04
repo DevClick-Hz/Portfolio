@@ -64,6 +64,7 @@
                     A full stack e-commerce website. Used tools:
                     Vuejs,Vuex,Vue-router,Bootstrap-vue,CSS3, Firebase.
                   </p>
+                  <p>Status: maintaining</p>
                   <a
                     href="https://electrnoic-x.firebaseapp.com/"
                     target="_blank"
@@ -85,22 +86,25 @@
             <template v-slot:img>
               <div class="slide-cont">
                 <div class="slide-txt">
-                  <h1>TNA</h1>
+                  <h1>Company portfolio</h1>
                   <p>
-                    A website uses the NewYork Times API to display the top
-                    articles. Used tools: Vuejs, Scss, NYT api.
+                    A company portfoilo. used tools:
+                    Vuejs,Vue-router,bootstrap-vue,SCSS
                   </p>
+                  <p>Status: under construction</p>
                   <a
-                    href="https://top-nyt-articles.firebaseapp.com/"
+                    href="https://modest-booth-7d8975.netlify.app"
                     target="_blank"
                     ><button class="know-More">Visit website</button></a
                   >
-                  <a href="https://github.com/DevClick-Hz/TNA" target="_blank"
+                  <a
+                    href="https://github.com/DevClick-Hz/company-website"
+                    target="_blank"
                     ><button class="know-More">Source code</button></a
                   >
                 </div>
                 <div class="pro-img">
-                  <img src="../assets/TNA.jpg" alt="" height="350" />
+                  <img src="../assets/company.png" alt="" height="350" />
                 </div>
               </div>
             </template>
